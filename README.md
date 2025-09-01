@@ -1,13 +1,6 @@
 # IoT BASED SMART HOME
-An IoT Based Smart Home Model developed using cisco, consisting of features like remote control access, intrusion detection system, fire control, theft detection and IOT based smart appliances.
-## FEATURES
- • 🏠 Designed a smart home system that integrates multiple IoT devices for automation and monitoring. <br>
- • 🕵🏻‍♀️ Implemented an intrusion detection system using motion and window sensors.<br>
- • 👩🏻‍🚒 Developed a fire response mechanism using smoke detectors and timed sprinklers. <br>
- • 💻 Provided remote access and control over home appliances and security features. <br>
- • 🌡️ Monitoring environmental parameters and automate responses (e.g., humidity, temperature).  <br>
- 
-## Table of Contents
+An IoT Based Smart Home Model developed using cisco, consisting of features like remote control access, intrusion detection system, fire control, theft detection and IOT based smart appliances. <br>
+## TABLE OF CONTENTS
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Equipment](#equipment)
@@ -17,6 +10,13 @@ An IoT Based Smart Home Model developed using cisco, consisting of features like
 - [Implementation](#implementation)
 - [Disclaimer](#disclaimer)
 
+## FEATURES
+ • 🏠 Designed a smart home system that integrates multiple IoT devices for automation and monitoring. <br>
+ • 🕵🏻‍♀️ Implemented an intrusion detection system using motion and window sensors.<br>
+ • 👩🏻‍🚒 Developed a fire response mechanism using smoke detectors and timed sprinklers. <br>
+ • 💻 Provided remote access and control over home appliances and security features. <br>
+ • 🌡️ Monitoring environmental parameters and automate responses (e.g., humidity, temperature).  <br>
+ 
 ## TECH STACK
 ![Static Badge](https://img.shields.io/badge/Cisco-blue?style=plastic) <br>
 ![Static Badge](https://img.shields.io/badge/Python-grey?style=plastic&logo=python) <br> 
