@@ -1,14 +1,28 @@
-# IOT BASED SMART HOME
+# IoT BASED SMART HOME
+An IoT Based Smart Home Model developed using cisco, consisting of features like remote control access, intrusion detection system, fire control, theft detection and IOT based smart appliances.
 ## FEATURES
  • 🏠 Designed a smart home system that integrates multiple IoT devices for automation and monitoring. <br>
  • 🕵🏻‍♀️ Implemented an intrusion detection system using motion and window sensors.<br>
  • 👩🏻‍🚒 Developed a fire response mechanism using smoke detectors and timed sprinklers. <br>
  • 💻 Provided remote access and control over home appliances and security features. <br>
  • 🌡️ Monitoring environmental parameters and automate responses (e.g., humidity, temperature).  <br>
+ 
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Equipment](#equipment)
+- [Project Review](#project-review)
+- [Code Block](#code-block)
+- [Installation](#installation)
+- [Implementation](#implementation)
+- [Disclaimer](#disclaimer)
+
 ## TECH STACK
 ![Static Badge](https://img.shields.io/badge/Cisco-blue?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/Python-grey?style=plastic&logo=python) <br>
-## EQUIPMENTS
+![Static Badge](https://img.shields.io/badge/Python-grey?style=plastic&logo=python) <br> 
+
+## EQUIPMENT
+The major equipment that I have develop this simulated model are: <br>
 1-MCU <br>
 2- MOTION DETECTORS. <br>
 3- SMOKE DETECTOR.<br>
@@ -22,9 +36,9 @@
 11- SMART BULDS AND APPLIANCES. <br>
 12- BUZZER. <br>
 ## PROJECT REVIEW
-<img width="1370" height="682" alt="image" src="https://github.com/user-attachments/assets/e84f4106-5274-49c7-afa6-ff4af0502a68" /> 
 
-<img width="1143" height="724" alt="image" src="https://github.com/user-attachments/assets/5f63048c-aba8-43e0-a829-15c2c81724cc" />
+![Smart Home Dashboard](https://github.com/user-attachments/assets/e84f4106-5274-49c7-afa6-ff4af0502a68)   <br>
+![Smoke Detector System](https://github.com/user-attachments/assets/5f63048c-aba8-43e0-a829-15c2c81724cc) 
 
 ## CODE BLOCK
 MCU3 code for fire monitoring
@@ -160,23 +174,23 @@ if __name__ == "__main__":
     main()
 ```
 ## INSTALLATION
-### 1.Clone The Repository
+### Clone The Repository
 ```bash
 git clone https://github.com/haniyakk/IOT-Based-Smart-Home.git
 cd RemoteHouse
 ```
+now you can download the project locally on your system.
 ## Implementation
-  Step 1: Setup of NodeMCU with relay modules for controlling appliances like lights, fans, AC, coffee maker, and sprinkler system. <br>
-  Step 2: Integration of PIR sensors at windows and garage for intrusion and motion detection.<br>
-  Step 3: Connection of smoke detectors in the garage and house interior to trigger alarms and sprinkler systems after a set time. <br>
-  Step 4: Configuration of webcam modules to activate upon suspicious activity detection. <br>
-  Step 5: Design of the remote dashboard for controlling appliances and monitoring system alerts. <br>
-  Step 6: Implementation of smart lawn sprinkler automation. 
-  Step 7: System testing and simulation on software platforms.
+   1️⃣. Setup of NodeMCU with relay modules for controlling appliances like lights, fans, AC, coffee maker, and sprinkler system. <br>
+   2️⃣. Integration of PIR sensors at windows and garage for intrusion and motion detection.<br>
+   3️⃣. Connection of smoke detectors in the garage and house interior to trigger alarms and sprinkler systems after a set time. <br>
+   4️⃣. Configuration of webcam modules to activate upon suspicious activity detection. <br>
+   5️⃣. Design of the remote dashboard for controlling appliances and monitoring system alerts. <br>
+   6️⃣. Implementation of smart lawn sprinkler automation. <br>
+   7️⃣. System testing and simulation on software platforms. <br>
 
 ## DISCLAIMER
 
-This project is a non-commercial academic model, created for learning and demonstration purposes only. It is just my 2nd semester's project, built as part of my coursework. It is not intended for production or commercial use.
+This project is a non-commercial academic model, created for learning and demonstration purposes only. It is just my 3rd semester's project, built as part of my coursework. It is not intended for production or commercial use.
 
 🗂️ Note: In order to run this project you need to install Cisco Packet Tracer.
-(e.g., C:\Users\YourName\Documents\IOT-Bases-Smart-Home\db.accdb)
