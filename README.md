@@ -1,5 +1,5 @@
 # IoT BASED SMART HOME
-An IoT Based Smart Home Model developed using cisco, consisting of features like remote control access, intrusion detection system, fire control, theft detection and IOT based smart appliances. <br>
+An IoT Based Smart Home Model developed using cisco, consisting of features like remote control access, intrusion detection system, fire control, theft detection and IoT based smart appliances. <br>
 ## TABLE OF CONTENTS
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -176,7 +176,7 @@ if __name__ == "__main__":
 ## INSTALLATION
 ### Clone The Repository
 ```bash
-git clone https://github.com/haniyakk/IOT-Based-Smart-Home.git
+git clone https://github.com/haniyakk/IoT-Based-Smart-Home.git
 cd RemoteHouse
 ```
 now you can download the project locally on your system.
